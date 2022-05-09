@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="card"
+   face="1B"
+   height="3.25in"
+   preserveAspectRatio="none"
+   viewBox="-120 -168 216 312"
+   width="2.25in"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="reverse-a.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="in"
+     showgrid="false"
+     inkscape:zoom="2.4494048"
+     inkscape:cx="107.98542"
+     inkscape:cy="91.042527"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11" />
+  <defs
+     id="defs5">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#B1"
+       id="pattern101"
+       patternTransform="translate(-12,-12)" />
+    <pattern
+       id="B1"
+       width="6"
+       height="6"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M3 0L6 3L3 6L0 3Z"
+         fill="black"
+         id="path2" />
+    </pattern>
+  </defs>
+  <rect
+     fill="url(#B1)"
+     width="216"
+     height="312"
+     x="-120"
+     y="-168"
+     rx="12"
+     ry="12"
+     id="rect9"
+     style="fill:url(#pattern101)" />
+</svg>
